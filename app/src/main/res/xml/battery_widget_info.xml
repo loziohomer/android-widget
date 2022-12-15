@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minHeight="20dp"
+    android:minWidth="160dp"
+    android:previewImage="@android:drawable/ic_menu_add"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="0"
+    android:initialLayout="@layout/battery_widget_layout"
+    android:initialKeyguardLayout="@layout/battery_widget_layout"
+    android:widgetCategory="home_screen">
+</appwidget-provider>
